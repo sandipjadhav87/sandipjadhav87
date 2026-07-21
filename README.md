@@ -1,13 +1,13 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=250&section=header&text=Sandip%20Jadhav&fontSize=60&animation=twinkling&fontColor=1e293b" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7dd3fc&center=true&vCenter=true&width=500&lines=Electronics+%26+Computer+Engineering;Web+Development+%26+Databases;Building+Scalable+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7dd3fc&center=true&vCenter=true&width=500&lines=Electronics+%26+Computer+Engineering;Web+Development+%26+Embedded+Systems;Building+Scalable+%26+Hardware-Aware+Apps" alt="Typing SVG" />
 
   <br />
 
   <img src="https://img.shields.io/badge/Open%20To%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=1e293b" alt="Open to work" />
 
-  <br />
+  <br /><br />
 
   <img src="https://komarev.com/ghvc/?username=sandipjadhav87&label=Profile%20Views&color=7dd3fc&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/sandipjadhav87?label=Followers&style=flat-square&color=7dd3fc" alt="Followers" />
@@ -23,10 +23,11 @@ const developer = {
   title: "Electronics and Computer Engineering",
   status: "Open to Work",
   openTo: ["Full Time Roles", "Internships", "Collaborations"],
+  domains: ["Software Engineering", "Web Development", "Embedded & Hardware Systems"],
   stack: [
     "HTML", "CSS", "JavaScript", "Java", "Python", 
     "SQL", "MySQL", "REST API", "OOP", 
-    "Sensor Selection", "Operating Systems"
+    "Sensor Selection", "Operating Systems", "Microcontrollers"
   ],
   launchedProjects: ["online-food-ordering-project"]
 };
