@@ -122,3 +122,6 @@ const developer = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer" width="100%" />
 </div>
+## 🐍 My GitHub Contributions
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/sandipjadhav87/sandipjadhav87/output/github-contribution-grid-snake.svg)
